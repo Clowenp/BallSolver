@@ -1,0 +1,14 @@
+public class Ball {
+
+    //fields
+    public String color;
+
+    public Ball (String color){
+        this.color = color;
+    }
+
+    public String getColor(){
+        return this.color;
+    }
+
+}
